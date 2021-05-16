@@ -267,9 +267,7 @@ CREATE ROLE devsecops;
 GRANT DBA To devsecops;
 
 ```
-```sql
----
-```
+
 
 
  
